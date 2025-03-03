@@ -63,3 +63,14 @@ from sklearn.linear_model import LinearRegression
 model = LinearRegression()  
 model.fit(X_train, y_train)  
 predictions = model.predict(X_test)# Machine-Learning-Algorithms-Materials
+
+ ### 2️⃣ Logistic Regression
+
+A classification algorithm used for binary classification problems.
+
+```python 
+from sklearn.linear_model import LogisticRegression  
+
+model = LogisticRegression()  
+model.fit(X_train, y_train)  
+predictions = model.predict(X_test)
