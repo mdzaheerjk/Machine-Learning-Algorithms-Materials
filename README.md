@@ -1,4 +1,4 @@
-# 🚀 Machine Learning Bootcamp  
+# 🚀 Machine Learning Algorithms Bootcamp  
 
 Welcome to the **Machine Learning Bootcamp** repository! This repo contains **notes, mind maps, and important ML algorithms** to help you master Machine Learning from beginner to advanced levels.  
 
