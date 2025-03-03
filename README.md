@@ -50,27 +50,25 @@ Structured **topic-wise notes** are available in the `notes/` directory.
 
 ---
 
-## 🤖 Machine Learning Algorithms  
+# 🤖 Machine Learning Algorithms  
 
-A collection of **ML algorithms** with explanations and Python code.  
+This document contains **important Machine Learning algorithms** with **Python code examples** for easy reference.  
 
-### 🔹 1️⃣ Linear Regression  
-A simple regression algorithm used for predicting continuous values.  
+---
 
-```python
-from sklearn.linear_model import LinearRegression  
+## 📌 Table of Contents  
 
-model = LinearRegression()  
-model.fit(X_train, y_train)  
-predictions = model.predict(X_test)# Machine-Learning-Algorithms-Materials
+- [1️⃣ Linear Regression](#1️⃣-linear-regression)  
+- [2️⃣ Logistic Regression](#2️⃣-logistic-regression)  
+- [3️⃣ Decision Tree](#3️⃣-decision-tree)  
+- [4️⃣ Random Forest](#4️⃣-random-forest)  
+- [5️⃣ Support Vector Machine (SVM)](#5️⃣-support-vector-machine-svm)  
+- [6️⃣ K-Nearest Neighbors (KNN)](#6️⃣-k-nearest-neighbors-knn)  
+- [7️⃣ Naive Bayes](#7️⃣-naive-bayes)  
+- [8️⃣ K-Means Clustering](#8️⃣-k-means-clustering)  
+- [9️⃣ Principal Component Analysis (PCA)](#9️⃣-principal-component-analysis-pca)  
+- [🔟 Neural Networks](#🔟-neural-networks)  
 
- ### 2️⃣ Logistic Regression
+---
 
-A classification algorithm used for binary classification problems.
-
-```python 
-from sklearn.linear_model import LogisticRegression  
-
-model = LogisticRegression()  
-model.fit(X_train, y_train)  
-predictions = model.predict(X_test)
+ 
